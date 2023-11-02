@@ -1,7 +1,8 @@
 # robosys2023
 
 # plusコマンド
-![test](https://github.com/YukiKobayashi/robosys2023/actions/workflows/test.yml/badge.svg)
+
+[![test](https://github.com/yukikobayashi0602/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/yukikobayashi0602/robosys2023/actions/workflows/test.yml)
 
 # このコマンドについて
 
